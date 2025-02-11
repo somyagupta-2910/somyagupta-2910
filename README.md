@@ -1,105 +1,79 @@
-## Welcome to SG's GitHub World 👋
+# Hey, I'm Somya! 👋
 
-### About Me
-
-🚀 A budding Computer Science wizard from NYU casting spells in Machine Learning & Software Development.  
-💼 Two years of forging code at Ford Motor Company, where technology meets tenacity.  
-✨ Fueled by passion, defined by diligence, and ready to innovate this summer!
-
----
-
-### 🎓 Education
-
-#### New York University (Sep 2023 - Present)
-- **M.S. in Computer Science**
-  - **Relevant Coursework**: Machine Learning, Big Data, Java
-
-#### SRM University (Jul 2017 - May 2021)
-- **B.Tech in Electronics & Communication Engineering**
-  - **CGPA**: 9.09
+## About Me  
+- **Startup founder** building at the intersection of **AI and Education**.
+- **Computer Science** grad student at **NYU**, passionate about startups, AI, software development, and building impactful products.  
+- Ex-Software Engineer at **Ford**.
 
 ---
 
-### 💻 Skills
+## 🛠 Experience  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+### **Context | Founder & CTO** *(Jun 2024 - Present)*  
+- **Product Development:** Building a MERN application where users can create and publish courses using their own materials, and students can access personalized, adaptive learning experiences. Incorporated Retrieval-Augmented Generation (RAG) and Vector Databases to enhance learning experience for our B2B customers.
+- **User Engagement:** Launched an AI-powered online learning platform (B2C version) that reached 3000 learners and facilitated over 3000 course creations within the first four months.
+- **User Research & Validation:** Conducted over 100 user interviews and tests to validate the idea and refine product features, ensuring strong product-market fit.
+- **Funding & Recognition:** Secured $12,000 in grant funding by being selected for the NYU Summer Launchpad accelerator (top 1.2% of applicants).
+- **Strategic Planning:** Developed product roadmaps and prioritized features based on user feedback and market trends.
 
-- **Programming Languages**: C++ | Python | JavaScript | Java | Bash
-- **Technologies**: Machine Learning | SQL
-- **Frameworks**: React | Apache Spark | Tailwind CSS | Scikit-Learn | Tensorflow | Hadoop | Agile
-- **Tools**: Git | GitHub | SonarQube | Postman
+### **Ford Motor Company | Software Engineer** *(Sep 2021 – Jun 2023)*  
+- **Operational Efficiency:** Reduced repository migration time by 77% by developing a web app using React and Node.js, integrating a Python script to transfer repositories from GitHub Enterprise Server to GitHub Cloud.
+- **Data-Driven Insights:** Created an automated metrics dashboard, decreasing analysis time by 50% and informing strategic decisions.
+- **Innovation Leadership:** Led the GitHub Copilot proof of concept, coordinating with 250 developers to boost productivity and gather feedback for product adoption.
 
----
-
-### 🛠 Experience
-
-#### Ford Motor Company, Chennai, India
-- **Software Engineer** (May 2023 – June 2023)
-  - Managed migration of 18k developers to GitHub Enterprise Cloud.
-  - Oversaw SonarQube tool servers and infrastructure, performed quarterly upgrades.
-
-- **Junior Engineer** (Sep 2021 – April 2023)
-  - Developed an automated metrics dashboard in Python, reducing metric gathering time by 50%.
-  - Authored bash automation scripts, reducing support ticket count by 68%.
-
-#### FYI Health, New Delhi, India
-- **Product Developer Intern** (May 2020 – July 2020)
-  - Innovated "FYI Health Post," a COVID-19 safety system implemented in 80+ venues.
+### **FYI Health | Product Developer Intern** *(May 2020 – Jul 2020)*  
+- **Product Launch:** Led a team of 8 to design and deploy the ”FYI Health Post,” an automated system for temperature sensing, mask detection, and hand sanitization during COVID-19.
+- **Impact:** Reduced entry processing time by 88%, enhancing safety protocols in over 80 schools and hotels across India.
+- **User-Centered Design: **Gathered user feedback to iterate on product features, improving usability and satisfaction.
+- **Stakeholder Engagement:** Coordinated with clients to customize solutions according to specific requirements.
 
 ---
 
-### 🚀 Projects
+## 💻 Skills  
 
-- **IoT-based Ozone Layer Depletion Parameter Monitoring System**
-  - Devised a system 81% more cost-efficient than current models, coded in C.
+- **Languages:** JavaScript, TypeScript, Python, C++, Java, SQL  
+- **Technologies:** Machine Learning, Big Data, Cloud Computing, API Development  
+- **Frameworks & Tools:** React.js, Express.js, Node.js MongoDB, TensorFlow, Snowflake, Airbyte, ChatGPT, Figma 
+- **DevOps & Infra:** AWS, Docker, Kubernetes, SonarQube 
 
-- **RAKSHAK - Automatic Threat Sensing for Woman Safety**
-  - [Publication Link](https://link.springer.com/chapter/10.1007/978-981-15-7504-4_19)
-  - Created a jacket that detects threats and alerts authorities, reducing search time by 76%.
-
-- **DRISHYA - Pandemic Drone with Thermal Imaging**
-  - [Publication Link](https://link.springer.com/chapter/10.1007/978-981-33-4698-7_15)
-  - Engineered a drone to identify febrile individuals, aiding in COVID-19 safety measures.
 
 ---
 
-### 🌟 Leadership
+## 🚀 Projects  
 
-- **Software Engineer** at Ford Motor Company (Apr 2023 – June 2023)
-  - Led the GitHub Copilot POC, enhancing productivity for 250 developers.
+### **Stock Trading Simulator** *(AWS, Lambda, EC2, DynamoDB, React, TypeScript)*  
+- Built a **real-time stock trading simulation platform** using **Yahoo Finance WebSockets** for live data.  
 
-- **Technical Event Lead** at SRM University (Feb 2020)
-  - Orchestrated events for “Elecxa 2020”, a prominent tech symposium.
-
-- **Event Manager** at SRM University (Jan 2020)
-  - Conducted an IoT workshop for 200+ students, igniting young minds.
+### **NYC Crime Analysis** *(Spark, Snowflake, Airbyte, Pandas)*  
+- Analyzed **218,000 NYC crime records** to identify trends and help improve safety measures.  
 
 ---
 
-### 📈 Impact
-
-- Automated processes to enhance efficiency and reduce labor.
-- Innovated for safety and health during a global pandemic.
-- Contributed to the scientific community through published research.
-
----
-
-### 📮 Connect with Me
-
-Feel free to reach out for collaborations or just a friendly chat:
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somya-gupta-060356186/) | 📧 Email: [somyag00@gmail.com](mailto:somyag00@gmail.com)
+## 🌟 Leadership & Impact  
+- Hosted **6 events **for NYC student founders and builders attracting over **1000 attendees**.
+- **Led GitHub Copilot POC at Ford**, optimizing development for **250+ engineers**.  
+- **Organized an IoT Workshop** at SRM University, training **200+ students**.  
+- **Published research on AI-powered safety systems**, featured in Springer journals.  
 
 ---
 
-🌐 _While you're here, don't forget to check out my repositories below!_
+## 🎓 Education  
 
+### **New York University (Sep 2023 - Present)**  
+- **M.S. in Computer Science (GPA: 3.67/4.00)**  
+- **Relevant Courses:** Machine Learning, Deep Learning, Cloud Computing, Analysis of Algorithms, Entrepreneurship  
+
+### **SRM University (Jul 2017 - Jun 2021)**  
+- **B.Tech in Electronics & Communication (GPA: 9.09/10.00)**
+
+---
+
+## 📮 Connect with Me  
+
+📧 **Email:** [somyag00@gmail.com](mailto:somyag00@gmail.com)  
+💼 **LinkedIn:** [somya-gupta-sg](https://www.linkedin.com/in/somya-gupta-sg/)  
+🌐 **Website:** [context-learn.com](https://context-learn.com/)  
+
+---
+
+🚀 **Check out my repos below and let's build something cool together!**  
